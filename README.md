@@ -1,5 +1,4 @@
-# L.C.P.S
-## Lung Classification and Pneumothorax Segmentation
+# L.C.P.S - Lung Classification and Pneumothorax Segmentation
 
 The project was developed for the Deep Learning course with the dual objective of:
 - classify rx images using four labels: covid, lung opacity, viral pneumonia and normal.
